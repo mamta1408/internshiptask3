@@ -82,8 +82,8 @@ Use free tools to identify common vulnerabilities on your computer.
 ---
 
 ## 📸 Screenshot of Scan Results
+<img width="1920" height="1080" alt="Screenshot 2025-08-07 204523" src="https://github.com/user-attachments/assets/728aa449-835b-48cf-9d5d-be723135c4c0" />
 
-![Scan Screenshot](./66e3a314-cdab-4caa-8b1c-42ad56969e75.png)
 
 ---
 
