@@ -95,12 +95,6 @@ Use free tools to identify common vulnerabilities on your computer.
 
 ---
 
-## 📝 Notes
-
-- This scan was done on a local machine using Nessus Essentials.
-- Further manual review may be required to validate vulnerability impact.
-- Automated tools provide quick identification but human review is essential for final triage.
-
 ---
 
 **Prepared by**: `mamta1`  
